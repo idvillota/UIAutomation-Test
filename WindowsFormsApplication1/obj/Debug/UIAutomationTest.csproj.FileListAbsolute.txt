@@ -1,0 +1,17 @@
+C:\Users\ivan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ivan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ivan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ivan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ivan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ivan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\UIAutomationTest.csproj.GenerateResource.Cache
+C:\Users\ivan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ivan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\obj\Debug\UIAutomationTest.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\obj\Debug\UIAutomationTest.csproj.GenerateResource.Cache
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

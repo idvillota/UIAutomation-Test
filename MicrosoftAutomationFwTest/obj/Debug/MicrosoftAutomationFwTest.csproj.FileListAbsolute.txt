@@ -1,0 +1,10 @@
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\bin\Debug\MicrosoftAutomationFwTest.exe.config
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\bin\Debug\MicrosoftAutomationFwTest.exe
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\bin\Debug\MicrosoftAutomationFwTest.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\obj\Debug\MicrosoftAutomationFwTest.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\obj\Debug\MicrosoftAutomationFwTest.frmMain.resources
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\obj\Debug\MicrosoftAutomationFwTest.Properties.Resources.resources
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\obj\Debug\MicrosoftAutomationFwTest.csproj.GenerateResource.Cache
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\obj\Debug\MicrosoftAutomationFwTest.exe
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\obj\Debug\MicrosoftAutomationFwTest.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\MicrosoftAutomationFwTest\MicrosoftAutomationFwTest\obj\Debug\MicrosoftAutomationFwTest.frmCalculatorTest.resources
